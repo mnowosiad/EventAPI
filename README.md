@@ -18,7 +18,9 @@ Requirements for participants:
 - When registering for an appointment, please provide your name and e-mail address
 
 Postman screenshots
+
 adding event
+
 ![image](https://user-images.githubusercontent.com/25528189/120087134-cc25b880-c0e5-11eb-841a-6fd8562f226a.png)
 
 returning the list of events:
