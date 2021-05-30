@@ -17,16 +17,16 @@ Requirements for participants:
 
 - When registering for an appointment, please provide your name and e-mail address
 
-Postman screenshots
+Postman screenshots:
 
-adding event
+Adding event
 
 ![image](https://user-images.githubusercontent.com/25528189/120087134-cc25b880-c0e5-11eb-841a-6fd8562f226a.png)
 
-returning the list of events:
+Returning the list of events:
 ![image](https://user-images.githubusercontent.com/25528189/120087214-54a45900-c0e6-11eb-97e8-37c284dd38b0.png)
 
-adding participant when there are already 25 added for this meeting:
+Adding participant when there are already 25 added for this meeting:
 ![image](https://user-images.githubusercontent.com/25528189/120087275-c41a4880-c0e6-11eb-8414-296894b18b2f.png)
 
 
